@@ -1,0 +1,33 @@
+html {
+    font-size: 10px;
+    font-family: "Jost", sans-serif; 
+    background-color: #fff4e3;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #5d5d5a;
+}
+
+p, li {
+    font-size: 25px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px 20px 0px 20px;
+    border: 2px solid #5d5d5a;
+    background-color: #ffcdab;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
